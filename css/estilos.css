@@ -1,0 +1,12 @@
+/* Reglas de prueba para T03-A01 */
+h1 {
+    color: green;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-size: 16px;
+    line-height: 1.5;
+}
